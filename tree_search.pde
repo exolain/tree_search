@@ -1,3 +1,8 @@
+/*Integrantes:
+Jose Andres Mena Arias 
+Randy Salas Morris
+Natalia Marin Perez*/
+
 final int UP = 0;
 final int LEFT = 1;
 final int DOWN = 2;
